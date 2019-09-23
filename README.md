@@ -1,1 +1,1 @@
-# comp255-assignment-1
+# Human activity recognition (HAR) project using Python
